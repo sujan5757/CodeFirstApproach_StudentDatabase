@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sujan.ps\\source\\repos\\CodeFirstASP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{962A28E7-EF52-4D13-B944-D6CF9D5B67E6}|CodeFirstASP\\CodeFirstASP.csproj|c:\\users\\sujan.ps\\source\\repos\\codefirstasp\\codefirstasp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{962A28E7-EF52-4D13-B944-D6CF9D5B67E6}|CodeFirstASP\\CodeFirstASP.csproj|solutionrelative:codefirstasp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962A28E7-EF52-4D13-B944-D6CF9D5B67E6}|CodeFirstASP\\CodeFirstASP.csproj|c:\\users\\sujan.ps\\source\\repos\\codefirstasp\\codefirstasp\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{962A28E7-EF52-4D13-B944-D6CF9D5B67E6}|CodeFirstASP\\CodeFirstASP.csproj|solutionrelative:codefirstasp\\views\\home\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962A28E7-EF52-4D13-B944-D6CF9D5B67E6}|CodeFirstASP\\CodeFirstASP.csproj|c:\\users\\sujan.ps\\source\\repos\\codefirstasp\\codefirstasp\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{962A28E7-EF52-4D13-B944-D6CF9D5B67E6}|CodeFirstASP\\CodeFirstASP.csproj|solutionrelative:codefirstasp\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962A28E7-EF52-4D13-B944-D6CF9D5B67E6}|CodeFirstASP\\CodeFirstASP.csproj|c:\\users\\sujan.ps\\source\\repos\\codefirstasp\\codefirstasp\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{962A28E7-EF52-4D13-B944-D6CF9D5B67E6}|CodeFirstASP\\CodeFirstASP.csproj|solutionrelative:codefirstasp\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962A28E7-EF52-4D13-B944-D6CF9D5B67E6}|CodeFirstASP\\CodeFirstASP.csproj|c:\\users\\sujan.ps\\source\\repos\\codefirstasp\\codefirstasp\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{962A28E7-EF52-4D13-B944-D6CF9D5B67E6}|CodeFirstASP\\CodeFirstASP.csproj|solutionrelative:codefirstasp\\views\\home\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962A28E7-EF52-4D13-B944-D6CF9D5B67E6}|CodeFirstASP\\CodeFirstASP.csproj|c:\\users\\sujan.ps\\source\\repos\\codefirstasp\\codefirstasp\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{962A28E7-EF52-4D13-B944-D6CF9D5B67E6}|CodeFirstASP\\CodeFirstASP.csproj|solutionrelative:codefirstasp\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962A28E7-EF52-4D13-B944-D6CF9D5B67E6}|CodeFirstASP\\CodeFirstASP.csproj|c:\\users\\sujan.ps\\source\\repos\\codefirstasp\\codefirstasp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{962A28E7-EF52-4D13-B944-D6CF9D5B67E6}|CodeFirstASP\\CodeFirstASP.csproj|solutionrelative:codefirstasp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{962A28E7-EF52-4D13-B944-D6CF9D5B67E6}|CodeFirstASP\\CodeFirstASP.csproj|c:\\users\\sujan.ps\\source\\repos\\codefirstasp\\codefirstasp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{962A28E7-EF52-4D13-B944-D6CF9D5B67E6}|CodeFirstASP\\CodeFirstASP.csproj|solutionrelative:codefirstasp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\source\\repos\\CodeFirstASP\\CodeFirstASP\\Views\\Home\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstASP\\Views\\Home\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\sujan.ps\\source\\repos\\CodeFirstASP\\CodeFirstASP\\Views\\Home\\Delete.cshtml",
+              "RelativeToolTip": "CodeFirstASP\\Views\\Home\\Delete.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T11:21:14.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "studentDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\source\\repos\\CodeFirstASP\\CodeFirstASP\\Models\\studentDBContext.cs",
+              "RelativeDocumentMoniker": "CodeFirstASP\\Models\\studentDBContext.cs",
+              "ToolTip": "C:\\Users\\sujan.ps\\source\\repos\\CodeFirstASP\\CodeFirstASP\\Models\\studentDBContext.cs",
+              "RelativeToolTip": "CodeFirstASP\\Models\\studentDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T10:38:03.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\source\\repos\\CodeFirstASP\\CodeFirstASP\\Views\\Home\\Create.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstASP\\Views\\Home\\Create.cshtml",
+              "ToolTip": "C:\\Users\\sujan.ps\\source\\repos\\CodeFirstASP\\CodeFirstASP\\Views\\Home\\Create.cshtml",
+              "RelativeToolTip": "CodeFirstASP\\Views\\Home\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T10:31:59.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\source\\repos\\CodeFirstASP\\CodeFirstASP\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CodeFirstASP\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sujan.ps\\source\\repos\\CodeFirstASP\\CodeFirstASP\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CodeFirstASP\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T10:23:46.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\source\\repos\\CodeFirstASP\\CodeFirstASP\\Views\\Home\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstASP\\Views\\Home\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\sujan.ps\\source\\repos\\CodeFirstASP\\CodeFirstASP\\Views\\Home\\Edit.cshtml",
+              "RelativeToolTip": "CodeFirstASP\\Views\\Home\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T11:05:00.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\source\\repos\\CodeFirstASP\\CodeFirstASP\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstASP\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\sujan.ps\\source\\repos\\CodeFirstASP\\CodeFirstASP\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "CodeFirstASP\\Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T10:51:36.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "student.cs",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\source\\repos\\CodeFirstASP\\CodeFirstASP\\Models\\student.cs",
+              "RelativeDocumentMoniker": "CodeFirstASP\\Models\\student.cs",
+              "ToolTip": "C:\\Users\\sujan.ps\\source\\repos\\CodeFirstASP\\CodeFirstASP\\Models\\student.cs",
+              "RelativeToolTip": "CodeFirstASP\\Models\\student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T10:23:44.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sujan.ps\\source\\repos\\CodeFirstASP\\CodeFirstASP\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CodeFirstASP\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sujan.ps\\source\\repos\\CodeFirstASP\\CodeFirstASP\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CodeFirstASP\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAA0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-17T10:20:22.886Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
